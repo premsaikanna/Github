@@ -6,6 +6,7 @@ public class TestB {
 	System.out.println("java");
 	System.out.println("selenium");
 	System.out.println("automation");
+	System.out.println("automation2");
 
 	}
 
